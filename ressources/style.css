@@ -1,3 +1,40 @@
+
+/*---snake---*/
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background-color: black;
+}
+
+td{
+  width: 20px;
+  height: 20px;
+}
+
+
+.blank{
+background-color: blank;
+}
+
+.snake{
+  background-color: white;
+}
+
+.wall{
+  background-color: green;
+}
+
+.fruit{
+  background-color: red;
+}
+
+
+
+/*------Pierre_feuille_ciseaux----*/
 button{
   display: inline-block;
   width: 1240px;
@@ -16,3 +53,8 @@ button:hover{
     -o-transform: scale(1.05);
     transform: scale(1.05);
 }
+ .resultat{
+   color: white;
+   font-size: 30px;
+   font-weight: 900;
+ }
