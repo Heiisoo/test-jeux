@@ -1,0 +1,15 @@
+button{
+  display: inline-block;
+  width: 1240px;
+  height: 200px;
+  background-color: rgb(34, 186, 118);
+  font-size: 50px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  border : 2px solid rgba(4, 1, 2, 0.9);
+}
+
+button:hover{
+  t
+}
